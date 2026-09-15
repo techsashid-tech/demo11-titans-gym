@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Dark Background Plate -->
+  <rect width="240" height="240" rx="28" fill="#0c0909" />
+  <rect x="3" y="3" width="234" height="234" rx="25" stroke="#261212" stroke-width="2" />
+  
+  <!-- Outer Red Aura Ring -->
+  <circle cx="120" cy="92" r="54" stroke="#dc2626" stroke-width="2" stroke-dasharray="4 3" opacity="0.6" />
+  <circle cx="120" cy="92" r="48" stroke="#ef4444" stroke-width="2.5" />
+  <circle cx="120" cy="92" r="42" fill="#180a0a" stroke="#b91c1c" stroke-width="1.5" />
+
+  <!-- Titan Helmet / Silhouette Crest -->
+  <g fill="#ef4444" stroke="#dc2626">
+    <!-- Muscle / Spartan Crest profile -->
+    <path d="M120 54c-18 0-30 14-30 32 0 10 5 20 14 26 4-6 10-10 16-10 8 0 14 5 18 11 8-5 12-16 12-27 0-18-12-32-30-32z" fill="#dc2626" opacity="0.85" />
+    <path d="M120 58c-6 8-8 18-8 28 0 7 2 14 6 20 5-6 10-14 10-24 0-9-3-17-8-24z" fill="#f87171" />
+    <path d="M102 76c4-12 11-18 18-18 8 0 14 6 18 16-5-6-11-9-18-9-7 0-13 4-18 11z" fill="#fca5a5" />
+  </g>
+
+  <!-- Horizontal Barbell Bar across center -->
+  <rect x="24" y="112" width="192" height="6" rx="3" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.5" />
+  <rect x="24" y="112" width="192" height="3" rx="1.5" fill="#ffffff" opacity="0.8" />
+  
+  <!-- Barbell Plates Left -->
+  <rect x="30" y="96" width="7" height="38" rx="2" fill="#ef4444" stroke="#991b1b" stroke-width="1" />
+  <rect x="39" y="100" width="6" height="30" rx="2" fill="#dc2626" stroke="#7f1d1d" stroke-width="1" />
+  <rect x="47" y="104" width="5" height="22" rx="1.5" fill="#b91c1c" />
+  <rect x="54" y="109" width="4" height="12" rx="1" fill="#9ca3af" />
+
+  <!-- Barbell Plates Right -->
+  <rect x="182" y="109" width="4" height="12" rx="1" fill="#9ca3af" />
+  <rect x="188" y="104" width="5" height="22" rx="1.5" fill="#b91c1c" />
+  <rect x="195" y="100" width="6" height="30" rx="2" fill="#dc2626" stroke="#7f1d1d" stroke-width="1" />
+  <rect x="203" y="96" width="7" height="38" rx="2" fill="#ef4444" stroke="#991b1b" stroke-width="1" />
+
+  <!-- Text: TITANS GYM -->
+  <text x="120" y="152" font-family="'Orbitron', sans-serif" font-size="20" font-weight="900" fill="#dc2626" text-anchor="middle" letter-spacing="2">
+    TITANS GYM
+  </text>
+  
+  <!-- Divider line & Tagline: — Fight for Fitness — -->
+  <line x1="45" y1="164" x2="85" y2="164" stroke="#ef4444" stroke-width="1" opacity="0.6" />
+  <text x="120" y="167" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-style="italic" font-weight="600" fill="#fca5a5" text-anchor="middle" letter-spacing="1">
+    Fight for Fitness
+  </text>
+  <line x1="155" y1="164" x2="195" y2="164" stroke="#ef4444" stroke-width="1" opacity="0.6" />
+
+  <!-- Subtitle: UNISEX FITNESS ARENA -->
+  <text x="120" y="184" font-family="'Orbitron', sans-serif" font-size="9.5" font-weight="800" fill="#f3f4f6" text-anchor="middle" letter-spacing="2.5">
+    UNISEX FITNESS ARENA
+  </text>
+
+  <!-- Corner Accent Bolts -->
+  <circle cx="18" cy="18" r="2" fill="#ef4444" opacity="0.5" />
+  <circle cx="222" cy="18" r="2" fill="#ef4444" opacity="0.5" />
+  <circle cx="18" cy="222" r="2" fill="#ef4444" opacity="0.5" />
+  <circle cx="222" cy="222" r="2" fill="#ef4444" opacity="0.5" />
+</svg>

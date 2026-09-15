@@ -1,0 +1,6 @@
+{
+  "name": "Titans Gym - Fight for Fitness",
+  "description": "Titans Gym official fitness club website featuring immersive 3D facility gallery, 360° virtual floor tour redirect, programs, facilities, and membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
